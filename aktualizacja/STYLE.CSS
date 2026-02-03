@@ -1,0 +1,60 @@
+<!--
+
+body {SCROLLBAR-FACE-COLOR: #003366; SCROLLBAR-HIGHLIGHT-COLOR: silver; SCROLLBAR-SHADOW-COLOR: black; SCROLLBAR-3DLIGHT-COLOR: #224E76; SCROLLBAR-ARROW-COLOR: silver; SCROLLBAR-TRACK-COLOR: #003366; SCROLLBAR-DARKSHADOW-COLOR: #224E76}
+
+P {font-size: 12px; color: white; font-family: Verdana;}
+
+P.big {font-size: 14px; color: white; font-family: Verdana;}
+
+P.nieb {font-size: 12px; color: #00A6DD; font-family: Verdana;}
+
+P.szary {font-size: 12px; color: gray; font-family: Verdana;}
+
+P.menu {font-size: 12px; color: white; font-family: arial;}
+
+P.copy {font-size: 10px; color: white; font-family: Verdana;}
+
+P.licznik {font-size: 9px; color: white; font-family: Verdana;}
+
+
+
+
+A {font-size: 12px; font-family: arial; text-decoration: none; color: white;  font-weight="normal"}
+
+A:link {font-size: 12px; font-family: arial; text-decoration: none; color: white;  font-weight="normal"}
+
+A:hover {font-size: 12px; font-family: arial; text-decoration: none; color: yellow;}
+
+
+
+A.na {font-size: 12px; font-family: arial; text-decoration: none; color: gray;  font-weight="normal"}
+
+A.na:hover {font-size: 12px; font-family: arial; text-decoration: none; color: yellow;}
+
+
+
+
+A.normal {font-size: 12px; font-family: Verdana; text-decoration: none; color: white;}
+
+A.normal:hover {font-size: 12px; font-family: Verdana; text-decoration: none; color: yellow;}
+
+
+A.szary {font-size: 12px; font-family: Verdana; text-decoration: none; color: gray;}
+
+A.szary:hover {font-size: 12px; font-family: Verdana; text-decoration: none; color: yellow;}
+
+
+A.nieb {font-size: 12px; font-family: Verdana; text-decoration: none; color: #3366FF;}
+
+A.nieb:hover {font-size: 12px; font-family: Verdana; text-decoration: none; color: #FF6600;}
+
+
+A.copy {font-size: 10px; color: #999999; font-family: Verdana;}
+
+A.copy:hover {font-size: 10px; color: orange; font-family: Verdana;}
+
+
+
+
+
+-->
