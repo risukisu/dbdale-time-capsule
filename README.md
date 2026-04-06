@@ -4,7 +4,7 @@
 
 ## The Story
 
-Somewhere around 2001, two Polish kids who'd been friends since kindergarten decided the internet needed another Dragon Ball fan site. One of them — "Eljot" — handled the HTML. The other — "Gusio" — wrote the content. They were maybe 12, armed with [Pajączek 2000 PRO](https://en.wikipedia.org/wiki/Paj%C4%85czek) (a Polish HTML editor that was *the* tool back then), a `poczta.fm` email address, and the absolute conviction that their site would be the best DB page on the Polish internet.
+Somewhere around 2001, two Polish kids who'd been friends since kindergarten decided the internet needed another Dragon Ball fan site. One of them — "Eljot" — handled the HTML. The other — "Gusio" — wrote the content. They were maybe 14, armed with [Pajączek 2000 PRO](https://en.wikipedia.org/wiki/Paj%C4%85czek) (a Polish HTML editor that was *the* tool back then), a `poczta.fm` email address, and the absolute conviction that their site would be the best DB page on the Polish internet.
 
 It had everything a proper fan site needed: character profiles, saga breakdowns, a gallery with hand-picked JPEGs and GIFs, wallpapers, a Flash intro, and — the crown jewel — a **homebrew Dragon Ball pen-and-paper RPG** with its own chapter system, races, and power levels. They spent months designing mechanics and playtesting it with friends before writing it up like a real tabletop rulebook.
 
